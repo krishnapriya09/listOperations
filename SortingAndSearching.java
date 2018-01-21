@@ -2,7 +2,7 @@
  * Created by Krishnapriya on 1/21/2018.
  */
 
-/**array of element is taken ans searching and sorting is applied on the list
+/**array of element is taken and searching and sorting is applied on the list
  * Insertion sort is used to sort the elements
  * binary search is used to ind the elements.
  */
